@@ -1,16 +1,15 @@
 ---
 layout: default
-title: <Your Name>
+title: <Md>
 ---
 
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/IMG_2250.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is {{ site.name }}, I am a sophomore majoring in Biological Engineering because first I love biology, and second I love the environment. And what better way is there to help the environment than life itself? In high school, I explored a lot of general biology and learned a lot about clinical work from my research at Mount Sinai, but the one thing that has always stood out to me was the research presentation that I did about climate change, specifically how the researchers had engineered life—tobacco crops—to not just be more productive, but also intake more carbon dioxide from the atmosphere. That showed me the potential of biotechnology and convinced me that it was truly the future. Here at Cornell, I am involved with the Biological and Environmental Engineering Society, P3, STEM Alliance, and my very own Biotech lab centered on wastewater treatment using microbiology and clever engineering. Outside of academics, I enjoy nature and hiking, going to the gym, and occasionally playing video games.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
