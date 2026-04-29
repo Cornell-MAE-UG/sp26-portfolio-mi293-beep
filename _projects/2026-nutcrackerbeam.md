@@ -1,13 +1,13 @@
 ---
 layout: project
-title: Macadamia Nutcracker
-description: Class Problem
+title: Macadamia Nutcracker Beam
+description: Class Design Problem
 technologies: []
-image: /assets/images/solution.png
+image: /assets/images/beam.png
 ---
 
 
-As part of a class practice, I designed my own macadamia nut cracker, although it did not end up being very usable. The details are in the the image.
+An extension to the previous nutcracker design problem by assuming beam bending and deflection.
 
 
 
